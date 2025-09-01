@@ -1,4 +1,4 @@
-# 🚀 Core Data Engineers (CDE) Learning Journey  
+# Core Data Engineers (CDE) Learning Journey  
 
 Hi there 👋  
 
